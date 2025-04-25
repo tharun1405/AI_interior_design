@@ -26,7 +26,7 @@ npm install
 
 #NOTE!!! Start the server script first and start the frontend server
 
-# Step 6: Start the backend server. (restart the server if any changes)
+# Step 6: Start the backend server in "/server" . (restart the server if any changes)
 npm start
 
 # Step 4: Start the frontend development server with auto-reloading and an instant preview.
